@@ -1,8 +1,8 @@
 {
   "rooms":[
-    {"id":"roomId:00","name":"E-shaped"},
-    {"id":"roomId:01","name":"T-shaped"},
-    {"id":"roomId:02","name":"O-shaped"}
+    {"id":"roomId:00","name":"E_shaped"},
+    {"id":"roomId:01","name":"T_shaped"},
+    {"id":"roomId:02","name":"O_shaped"}
     ],
     "paints":[
     {"id":"paintId:00","name":"hi"},
