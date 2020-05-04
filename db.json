@@ -2,7 +2,7 @@
   "rooms":[
     {"id":"roomId:00","name":"E-shaped"},
     {"id":"roomId:01","name":"T-shaped"},
-    {"id":"roomId:02","name":"O-shaped"},
+    {"id":"roomId:02","name":"O-shaped"}
     ],
     "paints":[
     {"id":"paintId:00","name":"hi"},
@@ -21,6 +21,6 @@
     {"id":"paintId:14","name":"groom"},
     {"id":"paintId:15","name":"artists"},
     {"id":"paintId:16","name":"door"},
-    {"id":"paintId:17","name":"portrait"},
+    {"id":"paintId:17","name":"portrait"}
     ]
 }
