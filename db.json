@@ -1,0 +1,26 @@
+{
+  "rooms":[
+    {"id":"roomId:00","name":"E-shaped"},
+    {"id":"roomId:01","name":"T-shaped"},
+    {"id":"roomId:02","name":"O-shaped"},
+    ],
+    "paints":[
+    {"id":"paintId:00","name":"hi"},
+    {"id":"paintId:02","name":"toucan"},
+    {"id":"paintId:03","name":"dream"},
+    {"id":"paintId:04","name":"cheese"},
+    {"id":"paintId:05","name":"black"},
+    {"id":"paintId:06","name":"llamas"},
+    {"id":"paintId:07","name":"boat"},
+    {"id":"paintId:08","name":"bridge"},
+    {"id":"paintId:09","name":"venice"},
+    {"id":"paintId:10","name":"stars"},
+    {"id":"paintId:11","name":"mars"},
+    {"id":"paintId:12","name":"kabu"},
+    {"id":"paintId:13","name":"album"},
+    {"id":"paintId:14","name":"groom"},
+    {"id":"paintId:15","name":"artists"},
+    {"id":"paintId:16","name":"door"},
+    {"id":"paintId:17","name":"portrait"},
+    ]
+}
