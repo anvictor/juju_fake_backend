@@ -8,55 +8,58 @@
       {"id":"paintId:00","pWidth":200,"pHaight":200,"description":"Sweetlana Andreychenko","name":"hi",
       "url":"http://webhelp.kiev.ua/paints/hi.jpg"
       },
-      {"id":"paintId:02","pWidth":200,"pHaight":200,"description":"Sweetlana Andreychenko","name":"toucan",
+      {"id":"paintId:02","pWidth":500,"pHaight":400,"description":"Sweetlana Andreychenko","name":"sea",
       "url":"http://webhelp.kiev.ua/paints/toucan.jpg"
       },
       {"id":"paintId:03","pWidth":200,"pHaight":200,"description":"Sweetlana Andreychenko","name":"dream",
       "url":"http://webhelp.kiev.ua/paints/dream.jpg"
       },
-      {"id":"paintId:04","pWidth":200,"pHaight":200,"description":"Sweetlana Andreychenko","name":"cheese",
+      {"id":"paintId:04","pWidth":700,"pHaight":500,"description":"Sweetlana Andreychenko","name":"cheese",
       "url":"http://webhelp.kiev.ua/paints/cheese.jpg"
       },
-      {"id":"paintId:05","pWidth":200,"pHaight":200,"description":"Sweetlana Andreychenko","name":"afro",
+      {"id":"paintId:05","pWidth":280,"pHaight":400,"description":"Sweetlana Andreychenko","name":"afro",
       "url":"http://webhelp.kiev.ua/paints/afro.jpg"
       },
-      {"id":"paintId:06","pWidth":200,"pHaight":200,"description":"Sweetlana Andreychenko","name":"llamas",
+      {"id":"paintId:06","pWidth":400,"pHaight":280,"description":"Sweetlana Andreychenko","name":"llamas",
       "url":"http://webhelp.kiev.ua/paints/llamas.jpg"
       },
-      {"id":"paintId:07","pWidth":200,"pHaight":200,"description":"Sweetlana Andreychenko","name":"boat",
+      {"id":"paintId:07","pWidth":400,"pHaight":280,"description":"Sweetlana Andreychenko","name":"boat",
       "url":"http://webhelp.kiev.ua/paints/boat.jpg"
       },
-      {"id":"paintId:08","pWidth":200,"pHaight":200,"description":"Sweetlana Andreychenko","name":"bridge",
+      {"id":"paintId:08","pWidth":290,"pHaight":435,"description":"Sweetlana Andreychenko","name":"bridge",
       "url":"http://webhelp.kiev.ua/paints/bridge.jpg"
       },
-      {"id":"paintId:09","pWidth":200,"pHaight":200,"description":"Viktor Andreichenko","name":"venice",
+      {"id":"paintId:09","pWidth":420,"pHaight":270,"description":"Viktor Andreichenko","name":"venice",
       "url":"http://webhelp.kiev.ua/paints/venice.jpg"
       },
-      {"id":"paintId:10","pWidth":200,"pHaight":200,"description":"Sweetlana Andreychenko","name":"stars",
+      {"id":"paintId:10","pWidth":295,"pHaight":305,"description":"Sweetlana Andreychenko","name":"stars",
       "url":"http://webhelp.kiev.ua/paints/stars.jpg"
       },
-      {"id":"paintId:11","pWidth":200,"pHaight":200,"description":"Sweetlana Andreychenko","name":"mars",
+      {"id":"paintId:11","pWidth":410,"pHaight":285,"description":"Sweetlana Andreychenko","name":"abstract",
       "url":"http://webhelp.kiev.ua/paints/mars.jpg"
       },
-      {"id":"paintId:12","pWidth":200,"pHaight":200,"description":"Viktor Andreichenko","name":"kabu",
+      {"id":"paintId:12","pWidth":300,"pHaight":400,"description":"Viktor Andreichenko","name":"kabu",
       "url":"http://webhelp.kiev.ua/paints/kabu.jpg"
       },
-      {"id":"paintId:13","pWidth":200,"pHaight":200,"description":"Viktor Andreichenko","name":"album",
+      {"id":"paintId:13","pWidth":600,"pHaight":400,"description":"Viktor Andreichenko","name":"album",
       "url":"http://webhelp.kiev.ua/paints/album.jpg"
       },
-      {"id":"paintId:14","pWidth":200,"pHaight":200,"description":"Viktor Andreichenko","name":"groom",
+      {"id":"paintId:14","pWidth":600,"pHaight":400,"description":"Viktor Andreichenko","name":"groom",
       "url":"http://webhelp.kiev.ua/paints/groom.jpg"
       },
-      {"id":"paintId:15","pWidth":200,"pHaight":200,"description":"Viktor Andreichenko","name":"artists",
+      {"id":"paintId:15","pWidth":400,"pHaight":280,"description":"Viktor Andreichenko","name":"artists",
       "url":"http://webhelp.kiev.ua/paints/artists.jpg"
       },
-      {"id":"paintId:16","pWidth":200,"pHaight":200,"description":"Viktor Andreichenko","name":"door",
+      {"id":"paintId:16","pWidth":600,"pHaight":500,"description":"Viktor Andreichenko","name":"door",
       "url":"http://webhelp.kiev.ua/paints/door.jpg"
       },
-      {"id":"paintId:17","pWidth":200,"pHaight":200,"description":"Viktor Andreichenko","name":"portrait",
+      {"id":"paintId:17","pWidth":500,"pHaight":600,"description":"Viktor Andreichenko","name":"portrait",
       "url":"http://webhelp.kiev.ua/paints/portrait.jpg"
       },
-      {"id":"paintId:18","pWidth":200,"pHaight":200,"description":"Viktor Andreichenko","name":"china",
+      {"id":"paintId:18","pWidth":390,"pHaight":290,"description":"Viktor Andreichenko","name":"china",
+      "url":"http://webhelp.kiev.ua/paints/china.jpg"
+      },
+      {"id":"paintId:18","pWidth":400,"pHaight":280,"description":"Viktor Andreichenko","name":"tbilisi",
       "url":"http://webhelp.kiev.ua/paints/china.jpg"
       }
  ]
