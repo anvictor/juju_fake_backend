@@ -9,9 +9,9 @@
       "url":"http://webhelp.kiev.ua/paints/hi.jpg"
       },
       {"id":"paintId:02","pWidth":500,"pHaight":400,"description":"Sweetlana Andreychenko","name":"sea",
-      "url":"http://webhelp.kiev.ua/paints/toucan.jpg"
+      "url":"http://webhelp.kiev.ua/paints/sea.jpg"
       },
-      {"id":"paintId:03","pWidth":200,"pHaight":200,"description":"Sweetlana Andreychenko","name":"dream",
+      {"id":"paintId:03","pWidth":595,"pHaight":420,"description":"Sweetlana Andreychenko","name":"dream",
       "url":"http://webhelp.kiev.ua/paints/dream.jpg"
       },
       {"id":"paintId:04","pWidth":700,"pHaight":500,"description":"Sweetlana Andreychenko","name":"cheese",
@@ -36,7 +36,7 @@
       "url":"http://webhelp.kiev.ua/paints/stars.jpg"
       },
       {"id":"paintId:11","pWidth":410,"pHaight":285,"description":"Sweetlana Andreychenko","name":"abstract",
-      "url":"http://webhelp.kiev.ua/paints/mars.jpg"
+      "url":"http://webhelp.kiev.ua/paints/abstract.jpg"
       },
       {"id":"paintId:12","pWidth":300,"pHaight":400,"description":"Viktor Andreichenko","name":"kabu",
       "url":"http://webhelp.kiev.ua/paints/kabu.jpg"
@@ -59,8 +59,8 @@
       {"id":"paintId:18","pWidth":390,"pHaight":290,"description":"Viktor Andreichenko","name":"china",
       "url":"http://webhelp.kiev.ua/paints/china.jpg"
       },
-      {"id":"paintId:18","pWidth":400,"pHaight":280,"description":"Viktor Andreichenko","name":"tbilisi",
-      "url":"http://webhelp.kiev.ua/paints/china.jpg"
+      {"id":"paintId:19","pWidth":400,"pHaight":280,"description":"Viktor Andreichenko","name":"tbilisi",
+      "url":"http://webhelp.kiev.ua/paints/tbilisi.jpg"
       }
  ]
 }
