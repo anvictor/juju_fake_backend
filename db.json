@@ -1,10 +1,8 @@
 {
   "rooms":[
-    {"id":"roomId:00","name":"E_shaped"},
-    {"id":"roomId:01","name":"T_shaped"},
-    {"id":"roomId:02","name":"O_shaped"},
-    {"id":"roomId:03","name":"G_1_12х16"},
-    {"id":"roomId:04","name":"G_1_6х8"}
+    {"id":"roomId:01","name":"G_1_6х8"},
+    {"id":"roomId:02","name":"G_1_12х16"},
+    {"id":"roomId:03","name":"G_1_30х12"}
     ],
     "paints":[
       {"id":"paintId:00","pWidth":1000,"pHaight":1000,"description":"Sweetlana Andreychenko","name":"hi","url":"http://webhelp.kiev.ua/paints/hi.jpg"},
