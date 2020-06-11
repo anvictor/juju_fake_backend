@@ -20,5 +20,6 @@
       {"id":"paintId:12","width":600,"height":500,"description":"Viktor Andreichenko","name":"door","url":"http://webhelp.kiev.ua/paints/door.jpg"},
       {"id":"paintId:13","width":500,"height":600,"description":"Viktor Andreichenko","name":"portrait","url":"http://webhelp.kiev.ua/paints/portrait.jpg"},
       {"id":"paintId:14","width":390,"height":290,"description":"Viktor Andreichenko","name":"china","url":"http://webhelp.kiev.ua/paints/china.jpg"}
+      {"id":"paintId:15","width":10,"height":10,"description":"Marker","name":"marker","url":"../../images/marker.png"}
  ]
 }
